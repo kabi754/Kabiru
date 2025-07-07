@@ -1,0 +1,2 @@
+# Kabiru
+currency-trading-bot
